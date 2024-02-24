@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Leandrys-CSEC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Leandrys CSEC
 
-<!---
-Leandrys-CSEC/Leandrys-CSEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![person with an anonymous mask touching the cybersecurity word](./assets/cyber-secuirty_banner.jpg)
+
+Hi, I’m Leandrys, I'm interested in the Cyber-Security world and software development. I'm currently studying at **SkillsforAll academy** and learning about **Networks, Cyber-Threats, Risk Management and Programming Languages**. I have a basic domain of **HTML, CSS, JS, Python** and it will grow soon!. I'd like to collaborate in cybersecurity tools development.
+
+## Where i am?
+
+- [**Linkedin**](https://www.linkedin.com/in/leandrys-csec)
+- [**Credly**](https://www.credly.com/users/leandrys-osorio)
